@@ -60,8 +60,8 @@
             label = "Num";
             bindings = <
 &kp GRAVE     &kp LBKT   &kp N7     &kp N8      &kp N9    &kp RBKT    &trans    &trans         &trans       &trans       &trans     &trans
-&trans     &kp SEMI   &kp N4     &kp N5      &kp N6    &kp EQUAL   &trans   &kp LARW    &kp DARW       &kp UARW       &kp RARW     &trans
-&trans     &trans  &kp N1     &kp N2      &kp N3    &kp BSLH    &trans        &kp HOME         &kp PG_DN       &kp PG_UP       &kp INS     &kp END
+&trans     &kp MINUS   &kp N4     &kp N5      &kp N6    &kp EQUAL   &trans   &kp LARW    &kp DARW       &kp UARW       &kp RARW     &trans
+&trans     &trans  &kp N1     &kp N2      &kp N3    &kp BSLH    &trans        &kp HOME         &kp PG_DN       &kp PG_UP       &kp INS     &trans
                      &trans     &kp N0      &trans    &trans         &trans     &trans       &trans      &trans
             >;
         };
